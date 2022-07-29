@@ -6,6 +6,7 @@ tailored, fast Search and Discovery experiences that delight and convert. [algol
 ## getting-started
 
 _This project was generated with [create-instantsearch-app](https://github.com/algolia/create-instantsearch-app) by [Algolia](https://algolia.com)._
+![alt text](img/sm.png)
 ![alt text](img/sm.gif)
 ## Get started
 
